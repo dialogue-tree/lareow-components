@@ -1,0 +1,28 @@
+{
+	"name": "@dialoguetree/lareow-components",
+	"version": "0.0.1",
+	"description": "lareow-components",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dialogue-tree/lareow-components.git"
+	},
+	"keywords": [],
+	"author": {
+		"name": "Kristian Koivisto-Kokko",
+		"url": "https://pinkkis.com"
+	},
+	"contributors": [
+		{
+			"name": "Victoria Koivisto-Kokko"
+		}
+	],
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dialogue-tree/lareow-components/issues"
+	},
+	"homepage": "https://github.com/dialogue-tree/lareow-components#readme"
+}
